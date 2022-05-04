@@ -1,0 +1,20 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "0.0.1",
+  "description": "Todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "author": "John Bolanos",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
